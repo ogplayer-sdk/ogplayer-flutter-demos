@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ogplayer-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ogplayer-sdk/ogplayer-swift.git",
+      "state" : {
+        "revision" : "2e4024ecd54eb54543853f1e7d9f7a4d0fd87f53",
+        "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-interactive-media-ads-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-interactive-media-ads-ios.git",
+      "state" : {
+        "revision" : "d988839daa3f52912907611219fd0509c9553c49",
+        "version" : "3.33.0"
+      }
+    }
+  ],
+  "version" : 2
+}
